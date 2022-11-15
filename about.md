@@ -2,9 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
+Hello I am Ramya G......
+I kill my time in a productive way.
+Reading is my hobby 
 
 ### More Information
 
